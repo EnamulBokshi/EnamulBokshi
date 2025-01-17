@@ -24,8 +24,7 @@ I'm a passionate software developer with a love for learning and building innova
 Here are some of the projects I'm proud of:
 
 - [Review Community: TrustBuddy](https://github.com/EnamulBokshi/trustbuddy-frontend.git): It's a give and take review platform
-- 
-
+- [E-Commerce Project: NMP Polymer LLC]([https://github.com/EnamulBokshi/trustbuddy-frontend.git](https://nmppolymer-fronend.vercel.app/#)): It's  E-commerce web app. using Django, react, redux-toolkit, RESTfull APIs, tailwindcss etc. 
 ## GitHub Stats
 
 ![EnamulBokshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnamulBokshi&show_icons=true&theme=radical)
