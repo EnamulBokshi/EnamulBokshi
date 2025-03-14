@@ -16,6 +16,14 @@ I'm a passionate software developer who loves building innovative solutions and 
 
 ---
 
+## 📝 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,php,html,css" />
+</p>
+
+---
+
 ## 🚀 Primary Tech Stack
 
 <p align="center">
@@ -50,5 +58,11 @@ I'm a passionate software developer who loves building innovative solutions and 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enamulbokshi)
+
+---
+
+## 👀 Visitor Count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=EnamulBokshi&color=blue&style=flat-square)
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out. 🚀
