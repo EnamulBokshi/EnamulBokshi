@@ -66,6 +66,12 @@ I'm a passionate software developer who loves building innovative solutions and 
 
 ---
 
+## 🗂 Contribution Graph
+
+[![EnamulBokshi's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=EnamulBokshi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enamulbokshi)
