@@ -30,7 +30,7 @@ I'm a passionate software developer who loves building innovative solutions and 
 ## 📝 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,php,html,css, TS" />
 </p>
 
 ---
