@@ -1,39 +1,54 @@
+![Coding Vibes](https://source.unsplash.com/featured/?coding,technology)
+
 # Hi there, I'm Enamul Bokshi! 👋
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile! 🚀
 
 ## About Me
 
-I'm a passionate software developer with a love for learning and building innovative solutions. I enjoy working on a variety of projects, from web development to data science.
+I'm a passionate software developer who loves building innovative solutions and learning new technologies. My interests span from web development to AI and machine learning.
 
-- 🌱 I’m currently learning **[Django, Machine Learning, AI, React]**
-- 👯 I’m looking to collaborate on **open-source projects**
+- 🌱 Currently learning **Django, Machine Learning, AI, React**
+- 👯 Looking to collaborate on **open-source projects**
 - 💬 Ask me about **web development, Python, machine learning, and open-source contributions**
-- 📫 How to reach me: **[enamulbokshi@gmail.com]**
+- 📫 Reach me at **[enamulbokshi@gmail.com](mailto:enamulbokshi@gmail.com)**
 - 😄 Pronouns: **he/him**
 
-## Skills
+---
 
-- **Languages:** Python, JavaScript, HTML, CSS, Java
-- **Frameworks/Libraries:** React, Node.js, Django, Flask, Tailwindcss, Shadcn
-- **Tools:** Git, Docker, Kubernetes, VScode, AI, Canva
-- **Databases:** MySQL, PostgreSQL, MongoDB
+## 🚀 Primary Tech Stack
 
-## Projects
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,nextjs,tailwind,python,django" />
+</p>
 
-Here are some of the projects I'm proud of:
+---
 
-- [Review Community: TrustBuddy](https://github.com/EnamulBokshi/trustbuddy-frontend.git): It's a give and take review platform
-- [E-Commerce Project: NMP Polymer LLC](https://nmppolymer-fronend.vercel.app/): It's  E-commerce web app. using Django, react, redux-toolkit, RESTfull APIs, tailwindcss etc.
--  
+## 🛠 Tools I Use
 
-## GitHub Stats
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm,githubcopilot" />
+</p>
 
-![EnamulBokshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnamulBokshi&show_icons=true&theme=radical)
+---
 
-## Connect with Me
+## 📌 Featured Projects
 
-- [LinkedIn](https://www.linkedin.com/in/enamulbokshi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 🎯 **[Review Community: TrustBuddy](https://github.com/EnamulBokshi/trustbuddy-frontend.git)** - A give-and-take review platform.
+- 🛍 **[E-Commerce Project: NMP Polymer LLC](https://nmppolymer.com/)** - A full-stack e-commerce web app built with Django, React, Redux Toolkit, RESTful APIs, and Tailwind CSS.
 
+---
 
-Thanks for visiting my profile! Feel free to check out my repositories and get in touch.
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EnamulBokshi&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enamulbokshi)
+
+Thanks for visiting my profile! Feel free to explore my repositories and reach out. 🚀
