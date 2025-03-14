@@ -66,12 +66,12 @@ I'm a passionate software developer who loves building innovative solutions and 
 
 ---
 
-## 🗂 Contribution Graph
+## 🗂 Contribution
 
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=EnamulBokshi&theme=react-dark" alt="Contribution Graph" />
+</p>
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnamulBokshi&show_icons=true&theme=radical)
-
-![Your Name's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=EnamulBokshi&theme=react-dark)
 ---
 
 ## 🔗 Connect with Me
