@@ -16,6 +16,17 @@ I'm a passionate software developer who loves building innovative solutions and 
 
 ---
 
+## 🎯 Currently Learning
+
+- Django
+- Machine Learning
+- Deep Learning
+- AI
+- AI Modeling
+- Model Training
+
+---
+
 ## 📝 Languages
 
 <p align="center">
