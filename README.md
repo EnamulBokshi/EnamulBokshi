@@ -68,8 +68,10 @@ I'm a passionate software developer who loves building innovative solutions and 
 
 ## 🗂 Contribution Graph
 
-[![EnamulBokshi's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=EnamulBokshi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnamulBokshi&show_icons=true&theme=radical)
+
+![Your Name's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=EnamulBokshi&theme=react-dark)
 ---
 
 ## 🔗 Connect with Me
