@@ -1,86 +1,171 @@
-
-# Hi there, I'm Enamul Bokshi! 👋
-
-Welcome to my GitHub profile! 🚀
-
-## About Me
-
-I'm a passionate software developer who loves building innovative solutions and learning new technologies. My interests span from web development to AI and machine learning.
-
-- 🌱 Currently learning **Django, Machine Learning, AI, React**
-- 👯 Looking to collaborate on **open-source projects**
-- 💬 Ask me about **web development, Python, machine learning, and open-source contributions**
-- 📫 Reach me at **[enamulbokshi@gmail.com](mailto:enamulbokshi@gmail.com)**
-- 😄 Pronouns: **he/him**
-
----
-
-## 🎯 Currently Learning
-
-- Django
-- Machine Learning
-- Deep Learning
-- AI
-- AI Modeling
-- Model Training
-
----
-
-## 📝 Languages
+# 👋 Hi, I'm Enamul Haque (Bokshi)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,php,html,css, TS" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Django+Expert;Real-Time+Systems+Builder;AI+%26+Automation+Enthusiast;Building+Impactful+Digital+Products" />
 </p>
 
 ---
 
-## 🚀 Primary Tech Stack
+## 🧠 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,nextjs,tailwind,python,django" />
-</p>
+💻 Full-stack developer with strong focus on **scalable web apps & real-time systems**  
+🚀 Passionate about **AI-powered applications & automation**  
+⚡ Love building products that solve **real-world problems**  
+📍 Based in Bangladesh  
+
+- 🔭 Currently working on: **AI-powered systems & real-time applications**
+- 🌱 Learning: **Advanced AI, System Design, Scalable Architecture**
+- 🧠 Interests: **Machine Learning, WebSockets, MQTT, Distributed Systems**
+- 💬 Ask me about: **React, Next.js, Node.js, Django, Real-time apps**
+- 📫 Email: **enamulbokshi@gmail.com**
 
 ---
 
-## 🛠 Tools I Use
+## 🌐 Portfolio
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm,githubcopilot" />
-</p>
+🔗 **Portfolio:**  
+👉 https://enamul-haque-nine.vercel.app  
 
 ---
 
-## 📌 Featured Projects
+## 🏆 Featured Projects
 
-- 🎯 **[Review Community: TrustBuddy](https://github.com/EnamulBokshi/trustbuddy-frontend.git)** - A give-and-take review platform.
-- 🛍 **[E-Commerce Project: NMP Polymer LLC](https://nmppolymer.com/)** - A full-stack e-commerce web app built with Django, React, Redux Toolkit, RESTful APIs, and Tailwind CSS.
+### 🍽 Dish Score
+🔗 https://dish-score.vercel.app/
+
+> A public dish review platform where users share real food experiences and rate dishes to help others decide.
+
+⚡ Features:
+- Real user-based scoring system
+- Review & rating mechanism
+- Clean UI with fast performance
+
+---
+
+### 🎓 Skill Bridge
+🔗 https://skillbridge-client-dusky.vercel.app/
+
+> A 1-to-1 digital learning platform where tutors create sessions and students book them.
+
+⚡ Features:
+- One slot → One student system
+- Booking & scheduling system
+- Real-time interaction ready architecture
+
+---
+
+### 🏢 NMP Polymer (Client Project)
+🔗 https://nmppolymer.com/
+
+> Full-stack e-commerce application built from scratch.
+
+⚡ Tech:
+- Django + React + Redux Toolkit
+- REST API + Authentication
+- Scalable production architecture
+
+---
+
+### 💬 Real-Time Chat App
+> Built using Socket.IO for instant communication.
+
+⚡ Tech:
+- React + Node.js + Express + Socket.IO
+
+---
+
+### 🛰 Real-Time GPS Tracking System
+> ESP32 + GPS module based live tracking system (like Uber)
+
+⚡ Features:
+- Live location updates
+- WebSocket/MQTT integration
+- Map-based visualization
+
+---
+
+### 🤖 Crypto Arbitrage Trading Bot
+> Automatically buys low & sells high across exchanges.
+
+⚡ Tech:
+- Binance, OKX, Kraken APIs
+- Real-time price comparison
+- Automated trading logic
+
+---
+
+## 🛠 Tech Stack
+
+### 🚀 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,js,ts" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,python" />
+</p>
+
+### 🗄 Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+### 🔌 Real-Time & Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/WebSockets-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MQTT-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Socket.IO-black?style=for-the-badge" />
+</p>
+
+### 🧰 Tools & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm,postman,prisma" />
+</p>
+
+### 🤖 AI & Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Modeling-purple?style=for-the-badge" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnamulBokshi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EnamulBokshi&show_icons=true&theme=radical&border_radius=10" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnamulBokshi&theme=radical&border_radius=10" />
 </p>
 
 ---
 
-## 🗂 Contribution
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=EnamulBokshi&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=EnamulBokshi&theme=react-dark" />
 </p>
 
 ---
 
-## 🔗 Connect with Me
+## 🌍 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enamulbokshi)
+<p align="center">
+  <a href="https://www.linkedin.com/in/enamulbokshi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
-## 👀 Visitor Count
+## 🧩 Fun Fact
 
-![Visitor Count](https://komarev.com/ghpvc/?username=EnamulBokshi&color=blue&style=flat-square)
+💡 I don’t just write code — I build **systems that solve real problems**.
 
-Thanks for visiting my profile! Feel free to explore my repositories and reach out. 🚀
+---
+
+<p align="center">
+  ⭐️ If you like my work, consider giving a star to my repositories!
+</p>
