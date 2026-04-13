@@ -1,4 +1,3 @@
-![Coding Vibes](https://source.unsplash.com/featured/?coding,technology)
 
 # Hi there, I'm Enamul Bokshi! 👋
 
