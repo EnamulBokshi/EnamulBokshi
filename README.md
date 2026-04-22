@@ -18,6 +18,7 @@
 - 🧠 Interests: **Machine Learning, WebSockets, MQTT, Distributed Systems**
 - 💬 Ask me about: **React, Next.js, Node.js, Django, Real-time apps**
 - 📫 Email: **enamulbokshi@gmail.com**
+- 📞 Phone: +8801871755616
 
 ---
 
@@ -75,7 +76,7 @@
 ---
 
 ### 🛰 Real-Time GPS Tracking System
-> ESP32 + GPS module based live tracking system (like Uber)
+> ESP32 + GPS module based live tracking system 
 
 ⚡ Features:
 - Live location updates
@@ -87,7 +88,7 @@
 ### 🤖 Crypto Arbitrage Trading Bot
 > Automatically buys low & sells high across exchanges.
 
-⚡ Tech:
+⚡ Tech: Nextjs, Nodejs, ExpressJs, Socket.io
 - Binance, OKX, Kraken APIs
 - Real-time price comparison
 - Automated trading logic
@@ -120,7 +121,7 @@
 
 ### 🧰 Tools & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm,postman,prisma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm,postman,prisma,vercel,docker,hostinger" />
 </p>
 
 ### 🤖 AI & Learning
@@ -138,14 +139,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=EnamulBokshi&show_icons=true&theme=radical&border_radius=10" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnamulBokshi&theme=radical&border_radius=10" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=EnamulBokshi&theme=react-dark" />
 </p>
 
 ---
