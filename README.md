@@ -56,8 +56,6 @@
 ---
 
 ### 🏢 NMP Polymer (Client Project)
-🔗 https://nmppolymer.com/
-
 > Full-stack e-commerce application built from scratch.
 
 ⚡ Tech:
