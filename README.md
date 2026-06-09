@@ -1,4 +1,6 @@
-# Hi, I'm Md Enamul Haque
+<p align="center" >
+  # Hi, I'm Md Enamul Haque
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Django+Expert;Real-Time+Systems+Builder;AI+%26+Automation+Enthusiast;Building+Impactful+Digital+Products" />
