@@ -1,5 +1,5 @@
-<p align="center" >
-  # Hi, I'm Md Enamul Haque
+<p align="center">
+  Hi, I'm Md Enamul Haque
 </p>
 
 <p align="center">
