@@ -24,9 +24,9 @@
 
 I'm a **B.Sc CSE graduate from Daffodil International University** with a Diploma in Computer Science, building production-grade full-stack applications independently since before finishing my degree.
 
-I work across the full stack , **Next.js, React, TypeScript** on the frontend and **Node.js, Express, Django, PostgreSQL** on the backend — with a strong interest in **AI-powered products, real-time systems, and workflow automation** using tools like n8n, OpenAI, Claude API, and Vapi.
+I work across the full stack, **Next.js, React, TypeScript** on the frontend and **Node.js, Express, Django, PostgreSQL** on the backend — with a strong interest in **AI-powered products, real-time systems, and workflow automation** using tools like n8n, OpenAI, Claude API, and Vapi.
 
-What drives me isn't just shipping features — it's architecting systems that are **maintainable, performant, and solve real problems at scale**. I've shipped projects with RBAC, real-time WebSocket layers, Gemini AI integrations, third-party stock APIs, and optimized data-fetching pipelines that delivered measurable performance gains.
+What drives me isn't just shipping features, it's architecting systems that are **maintainable, performant, and solve real problems at scale**. I've shipped projects with RBAC, real-time WebSocket layers, Gemini AI integrations, third-party stock APIs, and optimized data-fetching pipelines that delivered measurable performance gains.
 
 - 🔭 Currently building: AI automation agents & real-time web systems
 - 📚 Learning: System Design, Docker, Go, Advanced AI integrations
